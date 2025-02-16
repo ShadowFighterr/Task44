@@ -111,5 +111,5 @@ Application settings are stored in `.env`:
 ## Deployment
 The application is deployed on **Render** and is accessible at:
 
-🔗 **https://backend-ass3-auth.onrender.com**
+🔗 **[https://backend-ass3-auth.onrender.com](https://application-7isd.onrender.com/)**
 
