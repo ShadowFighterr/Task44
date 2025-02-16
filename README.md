@@ -11,8 +11,8 @@ This is a simple Task Management application built with Node.js, Express, MongoD
 ## Installation
 1. Clone the repository if you are in Github (if not just go to next step):
    ```bash
-   git clone https://github.com/ShadowFighterr/Task4
-   cd backend_ass3_auth
+   git clone https://github.com/ShadowFighterr/Task44
+   cd Task44
    ```
 
 2. Install dependencies:
